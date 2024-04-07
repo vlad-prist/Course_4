@@ -3,10 +3,11 @@ from abc import ABC, abstractmethod
 class BaseVacancy(ABC):
 
     @abstractmethod
-    def __init__(self, title, city, salary, description, link):
+    def __init__(self, title, city, salary_from, salary_to, description, link):
         self.title = title
         self.city = city
-        self.salary = salary
+        self.salary_from = salary_from
+        self.salary_to = salary_to
         self.description = description
         self.link = link
 
@@ -18,19 +19,23 @@ class BaseVacancy(ABC):
 class Vacancy(BaseVacancy):
     title: str  # Название вакансии
     city: str  # Город, где открыта вакансия
-    salary: str  # Предлагаемая з/п от
+    salary_from: int  # Предлагаемая з/п от
+    salary_to: int  # Предлагаемая з/п до
     description: str  # Требования
     link: str  # Ссылка на вакансию
 
-    def __init__(self, title, city, salary, description, link):
-        super().__init__(title, city, salary, description, link)
+    def __init__(self, title, city, salary_from, salary_to, description, link):
+        super().__init__(title, city, salary_from, salary_to, description, link)
 
     def __repr__(self):
-        return f"{self.title}, {self.city}, {self.salary}, {self.description}, {self.link}"
+        return f"{self.title}, {self.city}, {self.salary_from}, {self.salary_to}, {self.description}, {self.link}"
 
     def __str__(self):
-        return (f"Вакансия: {self.title}\nГород: {self.city}\nЗарплата: {self.salary}"
-                f"\nОписание: {self.description}\nСсылка: {self.link}")
+        return (f"Вакансия: {self.title}. "
+                f"Город: {self.city}. "
+                f"Зарплата от {self.salary_from} до {self.salary_to}. "
+                f"Описание: {self.description}. "
+                f"Ссылка: {self.link}.")
 
     @property
     def title_data(self):
@@ -60,41 +65,21 @@ class Vacancy(BaseVacancy):
         else:
             return "Отсутствует ссылка на вакансию"
 
-    @property
-    def get_salary(self):
-        if self.salary is not None:
-            return self.salary
-        return 0
-
-    @get_salary.setter
-    def get_salary(self, value):
-        if value is None and not isinstance(value, (float, int)):
-            self.salary = 0
-        else:
-            self.salary = value
-
-
     def __lt__(self, other):
-        ''' Метод сравнения, меньше '''
-        if self.salary is not None and other.salary is not None:
-            if getattr(self.salary, 'from', 0) < getattr(other.salary, 'from', 0): #self.salary["from"] < other.salary["from"]
-                return True
-            else:
-                return False
-        elif self.salary is None:
-            return True
-        elif other.salary is None:
+        ''' Метод сравнения: меньше '''
+        if self.salary_from is None or other.salary_from is None:
             return False
+        return True #self.salary_from < other.salary_from
 
     def __gt__(self, other):
-        ''' Метод сравнения, больше'''
-        if self.salary is not None and other.salary is not None:
-            if getattr(self.salary, 'from', 0) > getattr(other.salary, 'from', 0): #self.salary["from"] > other.salary["from"]:
-                return True
-            else:
-                return False
-        elif self.salary is None:
+        ''' Метод сравнения: больше'''
+        if self.salary_from is None or other.salary_from is None:
             return False
-        elif other.salary is None:
-            return True
+        return True #self.salary_from > other.salary_from
+
+    def __eq__(self, other):
+        """Метод сравнения вакансий: равно"""
+        if self.salary_from is None or other.salary_from is None:
+            return False
+        return True #self.salary_from == other.salary_from
 

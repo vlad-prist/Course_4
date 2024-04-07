@@ -12,9 +12,9 @@ def user_interaction():
     saving_vac = JSONSaver("../data/searching_vacs.json")
     saving_vac.write_data(vacancy_from_hh)
     user_sorting_number = int(input('Наберите номер для сортировки списка вакансий:\n'
-                            '1 - сортировка по возрастанию зарплаты\n'
-                            '2 - сортировка по убыванию зарплаты\n'
-                            '3 - без сортировки\n'))
+                                    '1 - сортировка по возрастанию зарплаты\n'
+                                    '2 - сортировка по убыванию зарплаты\n'
+                                    '3 - без сортировки\n'))
 
     # конвертирование в список
     vacs_list = create_list_obj(vacancy_from_hh)

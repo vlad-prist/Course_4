@@ -1,0 +1,1704 @@
+[
+    {
+        "id": "95789616",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "11",
+            "name": "Барнаул",
+            "url": "https://api.hh.ru/areas/11"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789616",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789616?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789616",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "96263847",
+        "premium": false,
+        "name": "Юрисконсульт",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "43",
+            "name": "Калуга",
+            "url": "https://api.hh.ru/areas/43"
+        },
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Калужская область",
+            "street": null,
+            "building": null,
+            "lat": 54.371805,
+            "lng": 35.445194,
+            "description": null,
+            "raw": "Калужская область",
+            "metro": null,
+            "metro_stations": [],
+            "id": "15471671"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-05T13:47:51+0300",
+        "created_at": "2024-04-05T13:47:51+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96263847",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96263847?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96263847",
+        "relations": [],
+        "employer": {
+            "id": "3857929",
+            "name": "ГК СЭТ",
+            "url": "https://api.hh.ru/employers/3857929",
+            "alternate_url": "https://hh.ru/employer/3857929",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/810995.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/3684868.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/3684867.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3857929",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Образование высшее профессиональное - юридическое. Опыт работы от 3х лет в аналогичной должности. Уверенный пользователь ПК: MS Office, Outlook. ",
+            "responsibility": "Юридический анализ представленных предложений на участие в конкурентных процедурах. Взаимодействие с организациями независимых <highlighttext>оценщиков</highlighttext> с целью получения отчетов об оценке..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "145",
+                "name": "Юрисконсульт"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "94180085",
+        "premium": false,
+        "name": "Менеджер по оценке и выкупу автомобилей с пробегом",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 120000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-15T16:48:56+0300",
+        "created_at": "2024-03-15T16:48:56+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94180085",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/94180085?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/94180085",
+        "relations": [],
+        "employer": {
+            "id": "156344",
+            "name": "АвтоГЕРМЕС, Группа компаний",
+            "url": "https://api.hh.ru/employers/156344",
+            "alternate_url": "https://hh.ru/employer/156344",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/560670.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/560669.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/199468.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=156344",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Будет преимуществом опыт работы: менеджером по продажам, <highlighttext>оценщиком</highlighttext>, мастером-консультантом. Знание автомобильного рынка и технического устройства автомобиля. Готовность к обучению...",
+            "responsibility": "Поиск и проведение переговоров с потенциальными клиентами. Выезд к клиенту с целью оценки, осмотра и выкупа автомобиля. Проверка документов, осмотр..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789621",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "68",
+            "name": "Омск",
+            "url": "https://api.hh.ru/areas/68"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789621",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789621?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789621",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "85694803",
+        "premium": false,
+        "name": "Приемщик- оценщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Казань",
+            "street": "улица Фрунзе",
+            "building": "15",
+            "lat": 55.821355,
+            "lng": 49.051913,
+            "description": null,
+            "raw": "Казань, улица Фрунзе, 15",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14193440"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-13T09:22:10+0300",
+        "created_at": "2024-03-13T09:22:10+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85694803",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/85694803?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/85694803",
+        "relations": [],
+        "employer": {
+            "id": "10041052",
+            "name": "Ломбард Олимп",
+            "url": "https://api.hh.ru/employers/10041052",
+            "alternate_url": "https://hh.ru/employer/10041052",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6228106.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1151912.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/6228107.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10041052",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Умение работать в команде. Высокая работоспособность и ответственность. Стремление к обучению, развитию и освоению новых технологий.",
+            "responsibility": "Оценивать и закупать цифровую технику и электронику. Консультировать клиентов. Работать с интернет площадками."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789624",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789624",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789624?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789624",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789615",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789615",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789615?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789615",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789620",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789620",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789620?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789620",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789617",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "112",
+            "name": "Ярославль",
+            "url": "https://api.hh.ru/areas/112"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789617",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789617?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789617",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "96111472",
+        "premium": false,
+        "name": "Товаровед-оценщик ломбарда",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-03T15:50:33+0300",
+        "created_at": "2024-04-03T15:50:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96111472",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96111472?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96111472",
+        "relations": [],
+        "employer": {
+            "id": "4705673",
+            "name": "Ломбард А1",
+            "url": "https://api.hh.ru/employers/4705673",
+            "alternate_url": "https://hh.ru/employer/4705673",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3937384.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/3937383.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/874127.JPG"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4705673",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы в ломбарде. Ответственность, обучаемость, коммуникабельность, позитивная энергетика, дисциплинированность. Положительные рекомендации с предыдущего места приветствуются.",
+            "responsibility": "Прием и оценка у клиентов ломбарда изделий из драгметаллов. Прием и оценка электроники (Смартфоны, планшеты, ноутбуки). Работа в программе ломбарда..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "96262566",
+        "premium": false,
+        "name": "Продавец-консультант",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "84",
+            "name": "Ставрополь",
+            "url": "https://api.hh.ru/areas/84"
+        },
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-05T13:33:37+0300",
+        "created_at": "2024-04-05T13:33:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96262566",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96262566?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96262566",
+        "relations": [],
+        "employer": {
+            "id": "4793874",
+            "name": "Легенда (ИП Зименко Дмитрий Сергеевич)",
+            "url": "https://api.hh.ru/employers/4793874",
+            "alternate_url": "https://hh.ru/employer/4793874",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6564786.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6564785.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1236087.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4793874",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Оценка/проверка всех типов гаджетов и электронных устройств: ноутбук, планшет,смартфон,смарт часы ,PS,PC (если таковых навыков нет,мы...",
+            "responsibility": "Консультация клиентов. - Оценка ювелирных изделий. - Учет и обеспечение сохранности ТМЦ. - Работа с первичными и кассовыми документами."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "97",
+                "name": "Продавец-консультант, продавец-кассир"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789623",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "72",
+            "name": "Пермь",
+            "url": "https://api.hh.ru/areas/72"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789623",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789623?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789623",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95567021",
+        "premium": false,
+        "name": "Менеджер по оценке и выкупу автомобилей с пробегом / Байер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-05T17:59:36+0300",
+        "created_at": "2024-04-05T17:59:36+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95567021",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95567021?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95567021",
+        "relations": [],
+        "employer": {
+            "id": "156344",
+            "name": "АвтоГЕРМЕС, Группа компаний",
+            "url": "https://api.hh.ru/employers/156344",
+            "alternate_url": "https://hh.ru/employer/156344",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/560670.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/560669.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/199468.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=156344",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Будет преимуществом опыт работы: менеджером по продажам, <highlighttext>оценщиком</highlighttext>, мастером-консультантом. Знание автомобильного рынка и технического устройства автомобиля. Готовность к обучению...",
+            "responsibility": "Поиск и проведение переговоров с потенциальными клиентами. Выезд к клиенту с целью оценки, осмотра и выкупа автомобиля. Проверка документов, осмотр..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "96078604",
+        "premium": false,
+        "name": "Продавец консультант-оценщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 90000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-06T11:46:05+0300",
+        "created_at": "2024-04-06T11:46:05+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96078604",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96078604?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96078604",
+        "relations": [],
+        "employer": {
+            "id": "4793874",
+            "name": "Легенда (ИП Зименко Дмитрий Сергеевич)",
+            "url": "https://api.hh.ru/employers/4793874",
+            "alternate_url": "https://hh.ru/employer/4793874",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6564786.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6564785.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1236087.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4793874",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Оценка/проверка всех типов гаджетов и электронных устройств: ноутбук,планшет,смартфон,смарт часы ,PS,PC ( если таковых навыков нет,мы...",
+            "responsibility": "Консультация клиентов. - Оценка ювелирных изделий. - Учет и обеспечение сохранности ТМЦ. - Работа с первичными и кассовыми документами."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "120",
+                "name": "Специалист службы безопасности"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789618",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789618",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789618?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789618",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95617555",
+        "premium": false,
+        "name": "Начинающий специалист в сфере недвижимости c окладом+%",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Казань",
+            "street": "Краснококшайская улица",
+            "building": "189А",
+            "lat": 55.824693,
+            "lng": 49.04593,
+            "description": null,
+            "raw": "Казань, Краснококшайская улица, 189А",
+            "metro": null,
+            "metro_stations": [],
+            "id": "15355153"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-27T13:34:27+0300",
+        "created_at": "2024-03-27T13:34:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95617555",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95617555?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95617555",
+        "relations": [],
+        "employer": {
+            "id": "10889788",
+            "name": "Федеральная сеть агентств ЮНИКОР - Недвижимость (UNIKOR) г. Казань",
+            "url": "https://api.hh.ru/employers/10889788",
+            "alternate_url": "https://hh.ru/employer/10889788",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1249978.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6620341.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6620342.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10889788",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": null,
+            "responsibility": "Тренинги, как внутри компании, так и с приглашением внешних тренеров."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "6",
+                "name": "Агент по недвижимости"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95831850",
+        "premium": false,
+        "name": "ЮРИСТ",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 80460,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Казань",
+            "street": "Оренбургский тракт",
+            "building": "8Д",
+            "lat": 55.761041,
+            "lng": 49.150764,
+            "description": null,
+            "raw": "Казань, Оренбургский тракт, 8Д",
+            "metro": null,
+            "metro_stations": [],
+            "id": "6716363"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-30T09:03:19+0300",
+        "created_at": "2024-03-30T09:03:19+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95831850",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95831850?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95831850",
+        "relations": [],
+        "employer": {
+            "id": "2319118",
+            "name": "Контраст",
+            "url": "https://api.hh.ru/employers/2319118",
+            "alternate_url": "https://hh.ru/employer/2319118",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/3309664.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/3309665.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/717137.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2319118",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "опыт работы более 8 лет. Мы ищем в нашу команду профессионала с опытом работы от 3-х лет и необходимым...",
+            "responsibility": "ООО «КонТраст» более девяти лет занимается оказанием услуг по независимой оценке и экспертизе (движимого, недвижимого имущества и бизнеса); оказывает юридические..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "146",
+                "name": "Юрист"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789619",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "107",
+            "name": "Чебоксары",
+            "url": "https://api.hh.ru/areas/107"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789619",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789619?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789619",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95133314",
+        "premium": false,
+        "name": "Менеджер по продажам В2В (удалённо)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 250000,
+            "to": 700000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-04-07T14:43:41+0300",
+        "created_at": "2024-04-07T14:43:41+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95133314",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95133314?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95133314",
+        "relations": [],
+        "employer": {
+            "id": "3754394",
+            "name": "Университет искусственного интеллекта",
+            "url": "https://api.hh.ru/employers/3754394",
+            "alternate_url": "https://hh.ru/employer/3754394",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6542561.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6542562.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1230530.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3754394",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы в В2В продажах обязателен. Умение вкусно преподносить информацию. Умение выявлять потребность бизнеса и строить презентацию исходя...",
+            "responsibility": "Выявление потребности. Заполнение подробного брифа с клиентом и передача <highlighttext>оценщику</highlighttext>. Ведение клиента от знакомства до передачи готового проекта. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "95789622",
+        "premium": false,
+        "name": "Оценщик видеоматериалов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "24",
+            "name": "Волгоград",
+            "url": "https://api.hh.ru/areas/24"
+        },
+        "salary": {
+            "from": 65000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-03-29T12:59:52+0300",
+        "created_at": "2024-03-29T12:59:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95789622",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/95789622?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95789622",
+        "relations": [],
+        "employer": {
+            "id": "10794713",
+            "name": "Зинина Алёна Игоревна",
+            "url": "https://api.hh.ru/employers/10794713",
+            "alternate_url": "https://hh.ru/employer/10794713",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10794713",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с видеоматериалами будет плюсом (монтаж, обработка, оценка качества). Понимание основ видеосъемки и пост-продакшена. Умение анализировать и оценивать...",
+            "responsibility": "Оценивание и анализ качества видеоматериалов. Выявление недостатков и предложение способов их устранения. Участие в разработке стратегии улучшения видеопроектов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
