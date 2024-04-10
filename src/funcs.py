@@ -1,5 +1,7 @@
 from class_vacancies import Vacancy
-def create_list_obj(list_obj):
+
+
+def create_list_obj(list_obj) -> list:
     '''
     Создание списка экз класса Vacancy
     :param list_obj: данные для создания экз класса
@@ -7,19 +9,19 @@ def create_list_obj(list_obj):
     '''
 
     list_vacancies = []
-    for item in list_obj:
+    for i in list_obj:
         list_vacancies.append(
-            Vacancy(item.get('name'),
-                    item.get('area', {}).get('name'),
-                    item.get('salary').get('from') if item["salary"] is not None else 0,
-                    item.get('salary').get('to') if item["salary"] is not None else 0,
-                    item.get('snippet', {}).get('requirement'),
-                    item.get('apply_alternate_url'),
+            Vacancy(i.get('name'),
+                    i.get('area', {}).get('name'),
+                    i.get('salary').get('from') if i["salary"] is not None else 0,
+                    i.get('salary').get('to') if i["salary"] is not None else 0,
+                    i.get('snippet', {}).get('requirement'),
+                    i.get('apply_alternate_url'),
                     ))
     return list_vacancies
 
 
-def sort_salary_from(vacs_list, user_sorting_number):
+def sort_salary_from(vacs_list, user_sorting_number) -> list:
     """
     Функция для списка вакансий по зарплате
     :param vacs_list: список вакансий
